@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\engva\\OneDrive\\Documentos\\04. PROJETOS\\PROGRAMA\u00C7\u00C3O\\CSharp\\ExperimentWithControls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{568588F5-1953-0E04-B2F1-4F8A6C90F02A}|ExperimentWithControls\\ExperimentWithControls.csproj|c:\\users\\engva\\onedrive\\documentos\\04. projetos\\programa\u00E7\u00E3o\\csharp\\experimentwithcontrols\\experimentwithcontrols\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{568588F5-1953-0E04-B2F1-4F8A6C90F02A}|ExperimentWithControls\\ExperimentWithControls.csproj|solutionrelative:experimentwithcontrols\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568588F5-1953-0E04-B2F1-4F8A6C90F02A}|ExperimentWithControls\\ExperimentWithControls.csproj|c:\\users\\engva\\onedrive\\documentos\\04. projetos\\programa\u00E7\u00E3o\\csharp\\experimentwithcontrols\\experimentwithcontrols\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{568588F5-1953-0E04-B2F1-4F8A6C90F02A}|ExperimentWithControls\\ExperimentWithControls.csproj|solutionrelative:experimentwithcontrols\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568588F5-1953-0E04-B2F1-4F8A6C90F02A}|ExperimentWithControls\\ExperimentWithControls.csproj|c:\\users\\engva\\onedrive\\documentos\\04. projetos\\programa\u00E7\u00E3o\\csharp\\experimentwithcontrols\\experimentwithcontrols\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{568588F5-1953-0E04-B2F1-4F8A6C90F02A}|ExperimentWithControls\\ExperimentWithControls.csproj|solutionrelative:experimentwithcontrols\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 170,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\engva\\OneDrive\\Documentos\\04. PROJETOS\\PROGRAMA\u00C7\u00C3O\\CSharp\\ExperimentWithControls\\ExperimentWithControls\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExperimentWithControls\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\engva\\OneDrive\\Documentos\\04. PROJETOS\\PROGRAMA\u00C7\u00C3O\\CSharp\\ExperimentWithControls\\ExperimentWithControls\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ExperimentWithControls\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADgv0cAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:07:27.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\engva\\OneDrive\\Documentos\\04. PROJETOS\\PROGRAMA\u00C7\u00C3O\\CSharp\\ExperimentWithControls\\ExperimentWithControls\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ExperimentWithControls\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\engva\\OneDrive\\Documentos\\04. PROJETOS\\PROGRAMA\u00C7\u00C3O\\CSharp\\ExperimentWithControls\\ExperimentWithControls\\MainWindow.xaml",
+              "RelativeToolTip": "ExperimentWithControls\\MainWindow.xaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-10T14:58:30.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 254,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\engva\\OneDrive\\Documentos\\04. PROJETOS\\PROGRAMA\u00C7\u00C3O\\CSharp\\ExperimentWithControls\\ExperimentWithControls\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ExperimentWithControls\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\engva\\OneDrive\\Documentos\\04. PROJETOS\\PROGRAMA\u00C7\u00C3O\\CSharp\\ExperimentWithControls\\ExperimentWithControls\\MainWindow.xaml",
+              "RelativeToolTip": "ExperimentWithControls\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-10T14:54:43.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
